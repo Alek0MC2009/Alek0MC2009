@@ -1,4 +1,5 @@
 # Hewo! I'm Alejandro :3
+[![Alek0MC2009 GitHub stats](https://github-stats-extended.vercel.app/api?username=Alek0MC2009)](https://github.com/stats-organization/github-stats-extended)
 <img width="719" height="896" alt="image" src="https://github.com/user-attachments/assets/91b05295-c2d1-4055-b7a2-712c1bd681b0" />
 
 
